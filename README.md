@@ -1,6 +1,6 @@
-# Colab_Implementation-Dance_ControlNeXt-SVD-v2
+# Colab_Implementation-HeyGem
 
-Here we provided ***a google colab implementation*** of ControlNeXt-SVD-v2.
+Here we provided ***a google colab implementation*** of HeyGem.
 
 ---
 ## Description
