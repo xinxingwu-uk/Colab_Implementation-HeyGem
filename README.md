@@ -12,7 +12,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 ---
 ## Examples
 
-### Case 1: Text + Orignal Video to Video
+### Case 1: Text + Orignal Video to Video ([Text2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb))
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -40,7 +40,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 </table>
 
 
-### Case 2: Text + Orignal Video to Video
+### Case 2: Text + Orignal Video to Video ([Text2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb))
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -68,7 +68,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 </table>
 
 
-### Case 3: Audio + Orignal Video to Video
+### Case 3: Audio + Orignal Video to Video ([Audio2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb))
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -96,7 +96,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 </table>
 
 
-### Case 4: Audio + Orignal Video to Video
+### Case 4: Audio + Orignal Video to Video ([Audio2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb))
 <table class="center">
 <tr>
     <td width=30% style="border: none">
