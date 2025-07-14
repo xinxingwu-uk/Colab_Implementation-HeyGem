@@ -27,13 +27,13 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 
 <tr>
     <td width=30% style="border: none">
-        <img src="resources/a.png" width="680">
-    </td>
-    <td width=30% style="border: none">
-        <img src="resources/a.png" width="680">
+       In order to produce effective targeted therapies for cancer, scientists need to isolate the genetic and phenotypic characteristics of cancer cells ...
     </td>
     <td width=40% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/88730187-5ee5-4fca-9330-8c1c85cb0ade" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/8665a86f-7508-4922-877a-1805e67ca507" muted="false"></video>
+    </td>
+    <td width=40% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/987cea5d-6d53-412a-8cf9-274d21aa27b5" muted="false"></video>
     </td>
 </tr>
 </table>
