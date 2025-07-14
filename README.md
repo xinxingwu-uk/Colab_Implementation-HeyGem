@@ -20,7 +20,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
     <td width=30% style="border: none">
         Input 2
     </td>
-    <td width=40% style="border: none">
+    <td width=60% style="border: none">
         Output
     </td>
 </tr>
