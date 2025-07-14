@@ -139,25 +139,26 @@ Setting in Colab: In the implementation, used A100GPU in Colab as follows
 
 * ***Step 2***: In Google Drive, open the ipynb file by Google Colab
 
-* ***Step 3***: Implement the ipynb file in Google Colab - Run all cells in the notebook to set up and download the project. 
+* ***Step 3***: Implement the ipynb file in Google Colab - Run all cells in the notebook to set up and download the project.
+
+  <img src="resources/fig1.png" width="280">
 
 * ***Step 4***: After execution, check your Google Drive in the same folder where the notebook is located. The whole project should now be available there - Google Drive folder: HeyGem-Linux-Python-Hack.
 
 * ***Step 5***: Upload the ipynb files Audio2Video.ipynb (https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb) and Text2Video.ipynb (https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb) in your Google Drive, right-click, and open with Google Colab. Then, run through the notebook step by step:
 
-#### Text + Orignal Video to Video
+Take ***Text + Orignal Video to Video** as an example,
 
 > (a) Find the uploaded Text2Video.ipynb, open it
 
+<img src="resources/fig2.png" width="280">
 
 > (b) Mount Google Drive
 
 
 > (c) Execute all cells in order. After completing implementation, a file 1004-r.mp4 will appear in your Google Drive folder
 
-  <img src="resources/fig1.png" width="280">
-
-    <img src="resources/fig3.png" width="280">
+<img src="resources/fig3.png" width="280">
 
 
 ---
