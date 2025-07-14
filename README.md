@@ -147,7 +147,7 @@ Setting in Colab: In the implementation, used A100GPU in Colab as follows
 
 * ***Step 5***: Upload the ipynb files Audio2Video.ipynb (https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb) and Text2Video.ipynb (https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb) in your Google Drive, right-click, and open with Google Colab. Then, run through the notebook step by step:
 
-Take ***Text + Orignal Video to Video** as an example,
+Take ***Text + Orignal Video to Video** ([Text2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb)) as an example,
 
 > (a) Find the uploaded Text2Video.ipynb, open it
 
@@ -156,7 +156,7 @@ Take ***Text + Orignal Video to Video** as an example,
 > (b) Mount Google Drive
 
 
-> (c) Execute all cells in order. After completing implementation, a file 1004-r.mp4 will appear in your Google Drive folder
+> (c) Execute all cells in order for Text2Video.ipynb. After completing implementation, a file 1004-r.mp4 will appear in your Google Drive folder
 
 <img src="resources/fig3.png" width="280">
 
