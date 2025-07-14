@@ -171,6 +171,8 @@ You can find the generated results (such as output videos) in this folder.
 
   <img src="resources/fig0.png" width="280">
 
+---
+>***Note***: All related materials, including notebooks, models, and output files, are provided in the [Google Drive](https://drive.google.com/drive/folders/16el0arUEDTnPHT7LIU0kU-LIMHWLGvVQ?usp=sharing)
 
 ---
 ## Acknowledgements
