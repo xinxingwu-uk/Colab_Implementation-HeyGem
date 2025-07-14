@@ -123,21 +123,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 </tr>
 </table>
 
----
-### Negative case
-
-> We observed that the model performs suboptimally when tested on animal images. This is likely because the underlying model was trained predominantly on human-centric datasets. As a result, its ability to generalize to animals is limited, and outputs may be less accurate or realistic in these cases.
-
-<table class="center">
-<tr>
-    <td width=50% style="border: none">
-        <img src="resources/e.jpeg" width="680">
-    </td>
-    <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/b10e5ee1-21b8-4118-91e5-80f346ed0622" muted="false"></video>
-    </td>
-</tr>
-</table>
+> ***Note***: e have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
 
 
 ---
