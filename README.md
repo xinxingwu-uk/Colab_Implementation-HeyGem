@@ -11,17 +11,17 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 ---
 ## Examples
 
-### Text + Audio to Video
+### Text + Orignal Video to Video
 <table class="center">
 <tr>
     <td width=30% style="border: none">
         Input 1
     </td>
-    <td width=30% style="border: none">
+    <td width=35% style="border: none">
         Input 2 (Original)
     </td>
-    <td width=40% style="border: none">
-        ***Output***
+    <td width=35% style="border: none">
+        Output
     </td>
 </tr>
 
@@ -29,14 +29,44 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
     <td width=30% style="border: none">
        In order to produce effective targeted therapies for cancer, scientists need to isolate the genetic and phenotypic characteristics of cancer cells ...
     </td>
-    <td width=40% style="border: none">
+    <td width=35% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/8665a86f-7508-4922-877a-1805e67ca507" muted="false"></video>
     </td>
-    <td width=40% style="border: none">
+    <td width=35% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/987cea5d-6d53-412a-8cf9-274d21aa27b5" muted="false"></video>
     </td>
 </tr>
 </table>
+
+
+### Audio + Orignal Video to Video
+<table class="center">
+<tr>
+    <td width=30% style="border: none">
+        Input 1
+    </td>
+    <td width=35% style="border: none">
+        Input 2 (Original)
+    </td>
+    <td width=35% style="border: none">
+        Output
+    </td>
+</tr>
+
+<tr>
+    <td width=30% style="border: none">
+       [Audio](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/audio2videoAudio.mp3)
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/dc00158b-940c-4bc9-9556-7599c086b626" muted="false"></video>
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/a43c099c-c013-4cde-9d01-131ef0398590" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+
 
 
 <table class="center">
