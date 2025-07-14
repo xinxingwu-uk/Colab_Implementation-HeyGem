@@ -131,7 +131,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 
 Setting in Colab: In the implementation, used A100GPU in Colab as follows
 
-<img src="resources/fig2.png" width="280">
+<img src="resources/fig1.png" width="280">
 
 ---
 
