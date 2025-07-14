@@ -11,7 +11,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 ---
 ## Examples
 
-### Postive case
+### Text + Audio to Video
 <table class="center">
 <tr>
     <td width=30% style="border: none">
