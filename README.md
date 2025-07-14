@@ -14,15 +14,21 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 ### Postive case
 <table class="center">
 <tr>
-    <td width=50% style="border: none">
-        Input
+    <td width=30% style="border: none">
+        Input 1
     </td>
-    <td width=50% style="border: none">
+    <td width=30% style="border: none">
+        Input 2
+    </td>
+    <td width=40% style="border: none">
         Output
     </td>
 </tr>
 
 <tr>
+    <td width=50% style="border: none">
+        <img src="resources/a.png" width="680">
+    </td>
     <td width=50% style="border: none">
         <img src="resources/a.png" width="680">
     </td>
