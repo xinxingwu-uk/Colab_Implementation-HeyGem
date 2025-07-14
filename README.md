@@ -11,7 +11,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 ---
 ## Examples
 
-### Text + Orignal Video to Video
+### Case 1: Text + Orignal Video to Video
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -34,6 +34,34 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
     </td>
     <td width=35% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/987cea5d-6d53-412a-8cf9-274d21aa27b5" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+
+### Case 2: Text + Orignal Video to Video
+<table class="center">
+<tr>
+    <td width=30% style="border: none">
+        Input 1
+    </td>
+    <td width=35% style="border: none">
+        Input 2 (Original)
+    </td>
+    <td width=35% style="border: none">
+        Output
+    </td>
+</tr>
+
+<tr>
+    <td width=30% style="border: none">
+       Large language model is gradually changing people's lives...
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/d91aef8f-bc0c-499d-bbc0-c5641b07f16b" muted="false"></video>
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/6b5a0f7d-e00e-4b78-a201-9c827cbf7599" muted="false"></video>
     </td>
 </tr>
 </table>
