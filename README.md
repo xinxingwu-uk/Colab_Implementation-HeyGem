@@ -55,7 +55,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 
 <tr>
     <td width=30% style="border: none">
-       [Audio](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/audio2videoAudio.mp3)
+       <a href="https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/audio2videoAudio.mp3">Audio</a>
     </td>
     <td width=35% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/dc00158b-940c-4bc9-9556-7599c086b626" muted="false"></video>
