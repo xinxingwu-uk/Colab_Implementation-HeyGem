@@ -67,7 +67,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 </table>
 
 
-### Audio + Orignal Video to Video
+### Case 3: Audio + Orignal Video to Video
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -95,7 +95,32 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
 </table>
 
 
+### Case 4: Audio + Orignal Video to Video
+<table class="center">
+<tr>
+    <td width=30% style="border: none">
+        Input 1
+    </td>
+    <td width=35% style="border: none">
+        Input 2 (Original)
+    </td>
+    <td width=35% style="border: none">
+        Output
+    </td>
+</tr>
 
+<tr>
+    <td width=30% style="border: none">
+       <a href="https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/HeygemTest1Audio.mp3">Audio</a>
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/5a894218-93e3-4ba2-b063-4080ba6827e6" muted="false"></video>
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/b42927ac-47ad-4fc7-9ec8-f06261c0694a" muted="false"></video>
+    </td>
+</tr>
+</table>
 
 ---
 ### Negative case
