@@ -5,8 +5,9 @@ Here we provided ***a google colab implementation*** of HeyGem.
 ---
 ## Description
 
-ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is specifically designed to generate realistic video sequences by animating a single input image of a person according to a driving pose sequence—such as a video of someone dancing or performing movements. Given a source image and a reference motion sequence, ControlNeXt-SVD-v2 synthesizes a new video where the person in the image faithfully follows the provided poses.
+HeyGem is a free and open-source AI avatar project developed by Duix.com. It enables anyone to create ultra-realistic digital human avatars and produce AI-driven videos easily and at almost zero cost, using ordinary computer hardware.
 
+HeyGem uses artificial intelligence to train digital avatars from real-person video data, bypassing the need for expensive and complex 3D modeling.
 
 ---
 ## Examples
