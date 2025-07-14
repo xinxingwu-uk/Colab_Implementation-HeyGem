@@ -123,7 +123,7 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 </tr>
 </table>
 
-> ***Note***: e have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
+> ***Note***: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
 
 
 ---
