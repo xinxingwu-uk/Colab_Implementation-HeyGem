@@ -18,7 +18,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
         Input 1
     </td>
     <td width=30% style="border: none">
-        Input 2
+        Input 2 (Original)
     </td>
     <td width=40% style="border: none">
         Output
@@ -33,7 +33,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
         <video controls loop src="https://github.com/user-attachments/assets/8665a86f-7508-4922-877a-1805e67ca507" muted="false"></video>
     </td>
     <td width=40% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/987cea5d-6d53-412a-8cf9-274d21aa27b5" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/987cea5d-6d53-412a-8cf9-274d21aa27b5" muted="ture"></video>
     </td>
 </tr>
 </table>
