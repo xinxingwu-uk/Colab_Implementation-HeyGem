@@ -21,7 +21,7 @@ ControlNeXt-SVD-v2 is a deep learning framework for image animation. It is speci
         Input 2 (Original)
     </td>
     <td width=40% style="border: none">
-        Output
+        ***Output***
     </td>
 </tr>
 
