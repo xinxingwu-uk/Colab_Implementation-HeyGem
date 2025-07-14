@@ -175,6 +175,6 @@ You can find the generated results (such as output videos) in this folder.
 ---
 ## Acknowledgements
 
-This project is based on [OriginalProject](https://github.com/dvlab-research/ControlNeXt) licensed under the Apache License, Version 2.0.
+This project is based on Original Projects [Duix.Heygem](https://github.com/xinxingwu-uk/Duix.Heygem) and [HeyGem-Linux-Python-Hack](https://github.com/xinxingwu-uk/HeyGem-Linux-Python-Hack) built with DUIX.COM.
 
-See [LICENSE](https://github.com/xinxingwu-uk/Colab_Implementation-Dance_ControlNeXt-SVD/blob/main/LICENSE) for details.
+See [LICENSE](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/NOTICE) for details.
