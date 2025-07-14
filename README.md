@@ -123,7 +123,9 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 </tr>
 </table>
 
-> ***Note***: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
+> ***Note 1***: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
+
+> ***Note 2***: Audio + Orignal Video to Video - Generating a 3-minute 54-second video takes approximately 4 minutes and 31 seconds. In comparison, generating an 18-second video requires about 1 minute and 18 seconds.
 
 
 ---
